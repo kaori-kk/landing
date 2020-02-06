@@ -1,0 +1,29 @@
+.container h2{
+  text-align: center;
+  padding: 30px 0;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.card img {
+  height: 150px;
+  width: 150px;
+}
+
+
+.card {
+  border: 0.5px solid grey;
+  padding: 20px;
+  margin: 0 30px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+}
+
+.card p {
+  color: grey;
+}
+
+

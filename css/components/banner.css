@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(../../images/background.png);
+  color: white;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.banner p {
+  opacity: 0.8;
+  margin-bottom: 50px;
+}
+
+.btn-treehouse {
+  background-color: #3AC162;
+  border-radius: 30px;
+  padding: 20px 30px;
+  color: white;
+  opacity: 1.0;
+}
+
+.btn-treehouse:hover {
+  opacity: 0.8;
+
+}
